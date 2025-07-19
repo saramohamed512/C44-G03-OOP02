@@ -62,7 +62,19 @@
 
             //Console.WriteLine($"Oldest person: {oldest.Name}, Age: {oldest.Age}");
             #endregion
+            #region Problem 4: Rectangle Struct
+            //Rectangle rect = new Rectangle();
 
+            //Console.Write("Enter rectangle width: ");
+            //double width = double.Parse(Console.ReadLine());
+            //rect.Width = width;
+
+            //Console.Write("Enter rectangle height: ");
+            //double height = double.Parse(Console.ReadLine());
+            //rect.Height = height;
+
+            //rect.DisplayInfo();
+            #endregion
 
         }
     }
