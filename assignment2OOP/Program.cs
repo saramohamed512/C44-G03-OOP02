@@ -36,9 +36,34 @@
 
             //double distance = Math.Sqrt(Math.Pow(point2.X - point1.X, 2) + Math.Pow(point2.Y - point1.Y, 2));
             //Console.WriteLine($"Distance between the points: {distance:F2}");
-        
+
+            #endregion
+            #region Problem 3:
+            //Person[] people = new Person[3];
+            //for (int i = 0; i < 3; i++)
+            //{
+            //    Console.WriteLine($"Enter details for person {i + 1}:");
+            //    Console.Write("Name: ");
+            //    string name = Console.ReadLine();
+            //    Console.Write("Age: ");
+            //    int age = int.Parse(Console.ReadLine());
+            //    people[i] = new Person { Name = name, Age = age };
+            //}
+
+            //// Find oldest person
+            //Person oldest = people[0];
+            //foreach (var person in people)
+            //{
+            //    if (person.Age > oldest.Age)
+            //    {
+            //        oldest = person;
+            //    }
+            //}
+
+            //Console.WriteLine($"Oldest person: {oldest.Name}, Age: {oldest.Age}");
             #endregion
 
-    }
+
+        }
     }
 }
